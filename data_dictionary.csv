@@ -1,0 +1,39 @@
+Column,Value,Meaning
+Education,1,Below College
+Education,2,College
+Education,3,Bachelor
+Education,4,Master
+Education,5,Doctor
+JobSatisfaction,1,Dissatisfied
+JobSatisfaction,2,Content
+JobSatisfaction,3,Satisfied
+JobSatisfaction,4,Highly Satisfied
+JobInvolvement,1,Disengaged
+JobInvolvement,2,Casually Engaged
+JobInvolvement,3,Engaged
+JobInvolvement,4,Highly Engaged
+EnvironmentSatisfaction,1,Below Standard
+EnvironmentSatisfaction,2,Standard
+EnvironmentSatisfaction,3,Above Standard
+EnvironmentSatisfaction,4,Excellent
+RelationshipSatisfaction,1,Poor
+RelationshipSatisfaction,2,Fair
+RelationshipSatisfaction,3,Good
+RelationshipSatisfaction,4,Excellent
+PerformanceRating,1,Below Expectations
+PerformanceRating,2,Meets Expectations
+PerformanceRating,3,Exceeds Expectations
+PerformanceRating,4,Outstanding
+WorkLifeBalance,1,Poor
+WorkLifeBalance,2,Fair
+WorkLifeBalance,3,Good
+WorkLifeBalance,4,Excellent
+JobLevel,1,Junior
+JobLevel,2,Mid Level
+JobLevel,3,Senior
+JobLevel,4,Lead
+JobLevel,5,Director
+StockOptionLevel,0,No Equity
+StockOptionLevel,1,Bronze Equity
+StockOptionLevel,2,Silver Equity
+StockOptionLevel,3,Gold Equity
